@@ -8,9 +8,22 @@ h1 {
   width: 28%;
   border: 1px solid black;
   padding: 20px;
+  height: 900px;
 }
 
 img {
   max-height: 300px;
   max-width: 250px;
+}
+
+.color-1 {
+  background-color: brown;
+}
+
+.color-2 {
+  background-color: green;
+}
+
+.color-3 {
+  background-color: skyblue;
 }
